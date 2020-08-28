@@ -67,7 +67,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App_Best_Buy/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="-1">
               <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -222,16 +222,15 @@
       <workItem from="1598576023650" duration="1956000" />
       <workItem from="1598578044014" duration="1800000" />
       <workItem from="1598617928200" duration="584000" />
-      <workItem from="1598621131562" duration="619000" />
+      <workItem from="1598621131562" duration="2371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17510000" />
+    <option name="totallyTimeSpent" value="19262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20785071" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -247,7 +246,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.5006676" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006435" side_tool="true" weight="0.22563417" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4993565" visible="true" weight="0.2283044" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4993565" visible="true" weight="0.9599466" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App_Best_Buy/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="-1">
           <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
